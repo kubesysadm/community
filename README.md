@@ -6,7 +6,7 @@ This is the starting point for joining and contributing to the Kubesysadm commun
 
 If you have any question, feel free to reach out to us in the following ways:
 
-[Volcano Slack Channel](https://kubesysadm.slack.com)
+[Kubesysadm Slack Channel](https://kubesysadm.slack.com)
 
 [Mailing List](https://groups.google.com/forum/#!forum/kubesysadm)
 
